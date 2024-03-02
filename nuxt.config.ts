@@ -4,4 +4,7 @@ export default defineNuxtConfig({
   modules: [
     'usebootstrap'
   ],
+  css: [
+    "bootstrap/scss/bootstrap.scss"
+  ],
 })
